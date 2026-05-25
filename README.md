@@ -12,3 +12,6 @@ Claude and ChatGPT has been used on some part of the coding, they are as follows
 - Shared subword Embedding
 - Increased embedding size
 - More epochs of training
+
+# Collaboration
+The project requires a lot of computational resources which are not available to us, so this project is done in collaboration with my classmate [Jishnu Bandyopadhyay](https://github.com/TheRealJishnu)
